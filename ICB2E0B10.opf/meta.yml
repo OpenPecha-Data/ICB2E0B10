@@ -1,0 +1,99 @@
+id: ICB2E0B10
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:10:52.777676'
+last_modified: '2022-06-17T14:10:52.777692'
+parser: null
+source_metadata:
+  title: Sickness and Healing
+  language: bo
+  description: 'Lotsawa House presents the following texts as part of our Sickness
+    and Healing Series:'
+  volume:
+    f7F14:
+      title: Three Ways of Bringing Sickness onto the Path
+      base_file: f7F14.txt
+      order: 1
+      parent: Advice
+    fDE00:
+      title: How to Transform Sickness and Other Circumstances
+      base_file: fDE00.txt
+      order: 2
+      parent: Advice
+    fD99A:
+      title: The Universal Medicine for Healing All Ills
+      base_file: fD99A.txt
+      order: 3
+      parent: Advice
+    f5B36:
+      title: The Mantra Collection that Incinerates All the Diseases of this Kaliyuga
+      base_file: f5B36.txt
+      order: 4
+      parent: Mantras
+    fE1F7:
+      title: Wrathful Guru Mantra Visualization
+      base_file: fE1F7.txt
+      order: 5
+      parent: Mantras
+    fF422:
+      title: Dhāraṇī of Goddess Parṇaśavarī
+      base_file: fF422.txt
+      order: 6
+      parent: Practices
+    f46A2:
+      title: Daily Practice of Guru Rinpoche, Buddha of Medicine
+      base_file: f46A2.txt
+      order: 7
+      parent: Practices
+    f339E:
+      title: 'Making Great Bliss the Path: Visualisation and Mantra Recitation of
+        Medicine Buddha'
+      base_file: f339E.txt
+      order: 8
+      parent: Practices
+    f7785:
+      title: Daily Practice of Dorje Gotrab
+      base_file: f7785.txt
+      order: 9
+      parent: Practices
+    fF69B:
+      title: 'Fast Track to Happiness and Peace: A Very Brief Meditation and Recitation
+        of the Medicine Buddha'
+      base_file: fF69B.txt
+      order: 10
+      parent: Practices
+    fCBA1:
+      title: Sādhana of Bhaiṣajya Guru (Medicine Buddha)
+      base_file: fCBA1.txt
+      order: 11
+      parent: Practices
+    fF9D1:
+      title: 'Zabchema: Profound Cure, The Practice of Bhaiṣajya-Guru, Lord of Physicians'
+      base_file: fF9D1.txt
+      order: 12
+      parent: Practices
+    fFBAE:
+      title: Acala Sādhana
+      base_file: fFBAE.txt
+      order: 13
+      parent: Practices
+    f43F9:
+      title: The Method to Pacify All Epidemics, Illnesses and Pandemics from the
+        Sixty Solitary Forms of Yamāntaka
+      base_file: f43F9.txt
+      order: 14
+      parent: Practices
+    fF7F3:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      base_file: fF7F3.txt
+      order: 15
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
